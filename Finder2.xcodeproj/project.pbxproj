@@ -24,7 +24,6 @@
 		EA71159A1BADF45D00B79589 /* hangers.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = EA7115941BADF45D00B79589 /* hangers.jpeg */; settings = {ASSET_TAGS = (); }; };
 		EA71159B1BADF45D00B79589 /* Maps.xib in Resources */ = {isa = PBXBuildFile; fileRef = EA7115951BADF45D00B79589 /* Maps.xib */; settings = {ASSET_TAGS = (); }; };
 		EA71159C1BADF45D00B79589 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA7115961BADF45D00B79589 /* Main.storyboard */; settings = {ASSET_TAGS = (); }; };
-		EA71159D1BADF45D00B79589 /* Web.xib in Resources */ = {isa = PBXBuildFile; fileRef = EA7115971BADF45D00B79589 /* Web.xib */; settings = {ASSET_TAGS = (); }; };
 		EA71159E1BADF45D00B79589 /* Locat.xib in Resources */ = {isa = PBXBuildFile; fileRef = EA7115981BADF45D00B79589 /* Locat.xib */; settings = {ASSET_TAGS = (); }; };
 		EA7115A41BADF46800B79589 /* LocateMeMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7115A11BADF46800B79589 /* LocateMeMapViewController.m */; settings = {ASSET_TAGS = (); }; };
 		EA7115A51BADF46800B79589 /* LocateMeMapAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7115A31BADF46800B79589 /* LocateMeMapAppDelegate.m */; settings = {ASSET_TAGS = (); }; };
@@ -99,7 +98,6 @@
 		EA7115941BADF45D00B79589 /* hangers.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hangers.jpeg; sourceTree = "<group>"; };
 		EA7115951BADF45D00B79589 /* Maps.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Maps.xib; sourceTree = "<group>"; };
 		EA7115961BADF45D00B79589 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		EA7115971BADF45D00B79589 /* Web.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Web.xib; sourceTree = "<group>"; };
 		EA7115981BADF45D00B79589 /* Locat.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Locat.xib; sourceTree = "<group>"; };
 		EA71159F1BADF46800B79589 /* LocateMeMap-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "LocateMeMap-Prefix.pch"; sourceTree = "<group>"; };
 		EA7115A01BADF46800B79589 /* LocateMeMapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocateMeMapViewController.h; sourceTree = "<group>"; };
@@ -194,7 +192,6 @@
 				EA7115941BADF45D00B79589 /* hangers.jpeg */,
 				EA7115951BADF45D00B79589 /* Maps.xib */,
 				EA7115961BADF45D00B79589 /* Main.storyboard */,
-				EA7115971BADF45D00B79589 /* Web.xib */,
 				EA7115981BADF45D00B79589 /* Locat.xib */,
 				EA7115B61BADF4E000B79589 /* ParentViewController.h */,
 				EA7115B71BADF4E000B79589 /* ParentViewController.m */,
@@ -395,7 +392,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA71159A1BADF45D00B79589 /* hangers.jpeg in Resources */,
-				EA71159D1BADF45D00B79589 /* Web.xib in Resources */,
 				EA71159B1BADF45D00B79589 /* Maps.xib in Resources */,
 				EA7115851BADF44600B79589 /* gpx.gpx in Resources */,
 				EA71159C1BADF45D00B79589 /* Main.storyboard in Resources */,
