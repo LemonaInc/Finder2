@@ -8,14 +8,45 @@
 
 /* Begin PBXBuildFile section */
 		EA7115481BADF42000B79589 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7115471BADF42000B79589 /* main.m */; };
-		EA71154B1BADF42000B79589 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EA71154A1BADF42000B79589 /* AppDelegate.m */; };
-		EA71154E1BADF42000B79589 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EA71154D1BADF42000B79589 /* ViewController.m */; };
-		EA7115511BADF42000B79589 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA71154F1BADF42000B79589 /* Main.storyboard */; };
 		EA7115541BADF42000B79589 /* Finder2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EA7115521BADF42000B79589 /* Finder2.xcdatamodeld */; };
 		EA7115561BADF42000B79589 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA7115551BADF42000B79589 /* Assets.xcassets */; };
 		EA7115591BADF42000B79589 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA7115571BADF42000B79589 /* LaunchScreen.storyboard */; };
 		EA7115641BADF42100B79589 /* Finder2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7115631BADF42100B79589 /* Finder2Tests.m */; };
 		EA71156F1BADF42100B79589 /* Finder2UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EA71156E1BADF42100B79589 /* Finder2UITests.m */; };
+		EA7115831BADF44600B79589 /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EA71157D1BADF44600B79589 /* MapViewController.m */; settings = {ASSET_TAGS = (); }; };
+		EA7115841BADF44600B79589 /* SiteDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EA71157F1BADF44600B79589 /* SiteDetailViewController.m */; settings = {ASSET_TAGS = (); }; };
+		EA7115851BADF44600B79589 /* gpx.gpx in Resources */ = {isa = PBXBuildFile; fileRef = EA7115801BADF44600B79589 /* gpx.gpx */; settings = {ASSET_TAGS = (); }; };
+		EA7115881BADF45000B79589 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7115871BADF45000B79589 /* ViewController.m */; settings = {ASSET_TAGS = (); }; };
+		EA71158F1BADF45600B79589 /* JMBackgroundCameraView.m in Sources */ = {isa = PBXBuildFile; fileRef = EA71158A1BADF45600B79589 /* JMBackgroundCameraView.m */; settings = {ASSET_TAGS = (); }; };
+		EA7115901BADF45600B79589 /* UIERealTimeBlurView.m in Sources */ = {isa = PBXBuildFile; fileRef = EA71158C1BADF45600B79589 /* UIERealTimeBlurView.m */; settings = {ASSET_TAGS = (); }; };
+		EA7115911BADF45600B79589 /* UIImage+BoxBlur.m in Sources */ = {isa = PBXBuildFile; fileRef = EA71158E1BADF45600B79589 /* UIImage+BoxBlur.m */; settings = {ASSET_TAGS = (); }; };
+		EA7115991BADF45D00B79589 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7115931BADF45D00B79589 /* AppDelegate.m */; settings = {ASSET_TAGS = (); }; };
+		EA71159A1BADF45D00B79589 /* hangers.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = EA7115941BADF45D00B79589 /* hangers.jpeg */; settings = {ASSET_TAGS = (); }; };
+		EA71159B1BADF45D00B79589 /* Maps.xib in Resources */ = {isa = PBXBuildFile; fileRef = EA7115951BADF45D00B79589 /* Maps.xib */; settings = {ASSET_TAGS = (); }; };
+		EA71159C1BADF45D00B79589 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA7115961BADF45D00B79589 /* Main.storyboard */; settings = {ASSET_TAGS = (); }; };
+		EA71159D1BADF45D00B79589 /* Web.xib in Resources */ = {isa = PBXBuildFile; fileRef = EA7115971BADF45D00B79589 /* Web.xib */; settings = {ASSET_TAGS = (); }; };
+		EA71159E1BADF45D00B79589 /* Locat.xib in Resources */ = {isa = PBXBuildFile; fileRef = EA7115981BADF45D00B79589 /* Locat.xib */; settings = {ASSET_TAGS = (); }; };
+		EA7115A41BADF46800B79589 /* LocateMeMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7115A11BADF46800B79589 /* LocateMeMapViewController.m */; settings = {ASSET_TAGS = (); }; };
+		EA7115A51BADF46800B79589 /* LocateMeMapAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7115A31BADF46800B79589 /* LocateMeMapAppDelegate.m */; settings = {ASSET_TAGS = (); }; };
+		EA7115B01BADF46F00B79589 /* Web.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7115A71BADF46F00B79589 /* Web.m */; settings = {ASSET_TAGS = (); }; };
+		EA7115B11BADF46F00B79589 /* Annotation.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7115A91BADF46F00B79589 /* Annotation.m */; settings = {ASSET_TAGS = (); }; };
+		EA7115B21BADF46F00B79589 /* Contact.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7115AB1BADF46F00B79589 /* Contact.m */; settings = {ASSET_TAGS = (); }; };
+		EA7115B31BADF46F00B79589 /* Maps.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7115AD1BADF46F00B79589 /* Maps.m */; settings = {ASSET_TAGS = (); }; };
+		EA7115B41BADF46F00B79589 /* Locat.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7115AF1BADF46F00B79589 /* Locat.m */; settings = {ASSET_TAGS = (); }; };
+		EA7115B81BADF4E000B79589 /* ParentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7115B71BADF4E000B79589 /* ParentViewController.m */; settings = {ASSET_TAGS = (); }; };
+		EA7115C21BADF51D00B79589 /* FacebookSDKStrings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = EA7115B91BADF51D00B79589 /* FacebookSDKStrings.bundle */; settings = {ASSET_TAGS = (); }; };
+		EA7115C31BADF51D00B79589 /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA7115BA1BADF51D00B79589 /* Bolts.framework */; settings = {ASSET_TAGS = (); }; };
+		EA7115C41BADF51D00B79589 /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA7115BB1BADF51D00B79589 /* FacebookSDK.framework */; settings = {ASSET_TAGS = (); }; };
+		EA7115C51BADF51D00B79589 /* FBAudienceNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA7115BC1BADF51D00B79589 /* FBAudienceNetwork.framework */; settings = {ASSET_TAGS = (); }; };
+		EA7115C61BADF51D00B79589 /* FBSDKCoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA7115BD1BADF51D00B79589 /* FBSDKCoreKit.framework */; settings = {ASSET_TAGS = (); }; };
+		EA7115C71BADF51D00B79589 /* FBSDKMessengerShareKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA7115BE1BADF51D00B79589 /* FBSDKMessengerShareKit.framework */; settings = {ASSET_TAGS = (); }; };
+		EA7115C81BADF51D00B79589 /* FBSDKShareKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA7115BF1BADF51D00B79589 /* FBSDKShareKit.framework */; settings = {ASSET_TAGS = (); }; };
+		EA7115C91BADF51D00B79589 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA7115C01BADF51D00B79589 /* Parse.framework */; settings = {ASSET_TAGS = (); }; };
+		EA7115CA1BADF51D00B79589 /* Pushbots.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA7115C11BADF51D00B79589 /* Pushbots.framework */; settings = {ASSET_TAGS = (); }; };
+		EA7115CC1BADF59900B79589 /* ParseFacebookUtils.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA7115CB1BADF59900B79589 /* ParseFacebookUtils.framework */; };
+		EA7115CE1BADF59E00B79589 /* ParseUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA7115CD1BADF59E00B79589 /* ParseUI.framework */; };
+		EA7115D01BADF5A400B79589 /* ParseCrashReporting.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA7115CF1BADF5A400B79589 /* ParseCrashReporting.framework */; };
+		EA7115D21BADF5AA00B79589 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA7115D11BADF5AA00B79589 /* Parse.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,11 +69,6 @@
 /* Begin PBXFileReference section */
 		EA7115431BADF42000B79589 /* Finder2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Finder2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA7115471BADF42000B79589 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		EA7115491BADF42000B79589 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		EA71154A1BADF42000B79589 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		EA71154C1BADF42000B79589 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		EA71154D1BADF42000B79589 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		EA7115501BADF42000B79589 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		EA7115531BADF42000B79589 /* Finder2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Finder2.xcdatamodel; sourceTree = "<group>"; };
 		EA7115551BADF42000B79589 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA7115581BADF42000B79589 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -53,6 +79,59 @@
 		EA71156A1BADF42100B79589 /* Finder2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Finder2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA71156E1BADF42100B79589 /* Finder2UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Finder2UITests.m; sourceTree = "<group>"; };
 		EA7115701BADF42100B79589 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA71157C1BADF44600B79589 /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
+		EA71157D1BADF44600B79589 /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
+		EA71157E1BADF44600B79589 /* SiteDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SiteDetailViewController.h; sourceTree = "<group>"; };
+		EA71157F1BADF44600B79589 /* SiteDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SiteDetailViewController.m; sourceTree = "<group>"; };
+		EA7115801BADF44600B79589 /* gpx.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = gpx.gpx; sourceTree = "<group>"; };
+		EA7115811BADF44600B79589 /* WH-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WH-Bridging-Header.h"; sourceTree = "<group>"; };
+		EA7115821BADF44600B79589 /* JPSThumbnail.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JPSThumbnail.h; sourceTree = "<group>"; };
+		EA7115861BADF45000B79589 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		EA7115871BADF45000B79589 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		EA7115891BADF45600B79589 /* JMBackgroundCameraView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JMBackgroundCameraView.h; sourceTree = "<group>"; };
+		EA71158A1BADF45600B79589 /* JMBackgroundCameraView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JMBackgroundCameraView.m; sourceTree = "<group>"; };
+		EA71158B1BADF45600B79589 /* UIERealTimeBlurView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIERealTimeBlurView.h; sourceTree = "<group>"; };
+		EA71158C1BADF45600B79589 /* UIERealTimeBlurView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIERealTimeBlurView.m; sourceTree = "<group>"; };
+		EA71158D1BADF45600B79589 /* UIImage+BoxBlur.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+BoxBlur.h"; sourceTree = "<group>"; };
+		EA71158E1BADF45600B79589 /* UIImage+BoxBlur.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+BoxBlur.m"; sourceTree = "<group>"; };
+		EA7115921BADF45D00B79589 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		EA7115931BADF45D00B79589 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		EA7115941BADF45D00B79589 /* hangers.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hangers.jpeg; sourceTree = "<group>"; };
+		EA7115951BADF45D00B79589 /* Maps.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Maps.xib; sourceTree = "<group>"; };
+		EA7115961BADF45D00B79589 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		EA7115971BADF45D00B79589 /* Web.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Web.xib; sourceTree = "<group>"; };
+		EA7115981BADF45D00B79589 /* Locat.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Locat.xib; sourceTree = "<group>"; };
+		EA71159F1BADF46800B79589 /* LocateMeMap-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "LocateMeMap-Prefix.pch"; sourceTree = "<group>"; };
+		EA7115A01BADF46800B79589 /* LocateMeMapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocateMeMapViewController.h; sourceTree = "<group>"; };
+		EA7115A11BADF46800B79589 /* LocateMeMapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocateMeMapViewController.m; sourceTree = "<group>"; };
+		EA7115A21BADF46800B79589 /* LocateMeMapAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocateMeMapAppDelegate.h; sourceTree = "<group>"; };
+		EA7115A31BADF46800B79589 /* LocateMeMapAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocateMeMapAppDelegate.m; sourceTree = "<group>"; };
+		EA7115A61BADF46F00B79589 /* Web.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Web.h; sourceTree = "<group>"; };
+		EA7115A71BADF46F00B79589 /* Web.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Web.m; sourceTree = "<group>"; };
+		EA7115A81BADF46F00B79589 /* Annotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Annotation.h; sourceTree = "<group>"; };
+		EA7115A91BADF46F00B79589 /* Annotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Annotation.m; sourceTree = "<group>"; };
+		EA7115AA1BADF46F00B79589 /* Contact.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Contact.h; sourceTree = "<group>"; };
+		EA7115AB1BADF46F00B79589 /* Contact.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Contact.m; sourceTree = "<group>"; };
+		EA7115AC1BADF46F00B79589 /* Maps.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Maps.h; sourceTree = "<group>"; };
+		EA7115AD1BADF46F00B79589 /* Maps.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Maps.m; sourceTree = "<group>"; };
+		EA7115AE1BADF46F00B79589 /* Locat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Locat.h; sourceTree = "<group>"; };
+		EA7115AF1BADF46F00B79589 /* Locat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Locat.m; sourceTree = "<group>"; };
+		EA7115B61BADF4E000B79589 /* ParentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ParentViewController.h; sourceTree = "<group>"; };
+		EA7115B71BADF4E000B79589 /* ParentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParentViewController.m; sourceTree = "<group>"; };
+		EA7115B91BADF51D00B79589 /* FacebookSDKStrings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = FacebookSDKStrings.bundle; sourceTree = "<group>"; };
+		EA7115BA1BADF51D00B79589 /* Bolts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Bolts.framework; sourceTree = "<group>"; };
+		EA7115BB1BADF51D00B79589 /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FacebookSDK.framework; sourceTree = "<group>"; };
+		EA7115BC1BADF51D00B79589 /* FBAudienceNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBAudienceNetwork.framework; sourceTree = "<group>"; };
+		EA7115BD1BADF51D00B79589 /* FBSDKCoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKCoreKit.framework; sourceTree = "<group>"; };
+		EA7115BE1BADF51D00B79589 /* FBSDKMessengerShareKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKMessengerShareKit.framework; sourceTree = "<group>"; };
+		EA7115BF1BADF51D00B79589 /* FBSDKShareKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKShareKit.framework; sourceTree = "<group>"; };
+		EA7115C01BADF51D00B79589 /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Parse.framework; sourceTree = "<group>"; };
+		EA7115C11BADF51D00B79589 /* Pushbots.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Pushbots.framework; sourceTree = "<group>"; };
+		EA7115CB1BADF59900B79589 /* ParseFacebookUtils.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ParseFacebookUtils.framework; path = ../../Findr/ParseFacebookUtils.framework; sourceTree = "<group>"; };
+		EA7115CD1BADF59E00B79589 /* ParseUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ParseUI.framework; path = ../../Findr/ParseUI.framework; sourceTree = "<group>"; };
+		EA7115CF1BADF5A400B79589 /* ParseCrashReporting.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ParseCrashReporting.framework; path = ../../Findr/ParseCrashReporting.framework; sourceTree = "<group>"; };
+		EA7115D11BADF5AA00B79589 /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Parse.framework; path = ../../Findr/Parse.framework; sourceTree = "<group>"; };
+		EA7115D31BADF5E000B79589 /* PFFacebookUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PFFacebookUtils.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +139,18 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA7115D21BADF5AA00B79589 /* Parse.framework in Frameworks */,
+				EA7115D01BADF5A400B79589 /* ParseCrashReporting.framework in Frameworks */,
+				EA7115CE1BADF59E00B79589 /* ParseUI.framework in Frameworks */,
+				EA7115CC1BADF59900B79589 /* ParseFacebookUtils.framework in Frameworks */,
+				EA7115C51BADF51D00B79589 /* FBAudienceNetwork.framework in Frameworks */,
+				EA7115C61BADF51D00B79589 /* FBSDKCoreKit.framework in Frameworks */,
+				EA7115C81BADF51D00B79589 /* FBSDKShareKit.framework in Frameworks */,
+				EA7115C91BADF51D00B79589 /* Parse.framework in Frameworks */,
+				EA7115C71BADF51D00B79589 /* FBSDKMessengerShareKit.framework in Frameworks */,
+				EA7115C31BADF51D00B79589 /* Bolts.framework in Frameworks */,
+				EA7115CA1BADF51D00B79589 /* Pushbots.framework in Frameworks */,
+				EA7115C41BADF51D00B79589 /* FacebookSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,7 +174,47 @@
 		EA71153A1BADF42000B79589 = {
 			isa = PBXGroup;
 			children = (
-				EA7115451BADF42000B79589 /* Finder2 */,
+				EA71157C1BADF44600B79589 /* MapViewController.h */,
+				EA71157D1BADF44600B79589 /* MapViewController.m */,
+				EA71157E1BADF44600B79589 /* SiteDetailViewController.h */,
+				EA71157F1BADF44600B79589 /* SiteDetailViewController.m */,
+				EA7115801BADF44600B79589 /* gpx.gpx */,
+				EA7115811BADF44600B79589 /* WH-Bridging-Header.h */,
+				EA7115821BADF44600B79589 /* JPSThumbnail.h */,
+				EA7115861BADF45000B79589 /* ViewController.h */,
+				EA7115871BADF45000B79589 /* ViewController.m */,
+				EA7115891BADF45600B79589 /* JMBackgroundCameraView.h */,
+				EA71158A1BADF45600B79589 /* JMBackgroundCameraView.m */,
+				EA71158B1BADF45600B79589 /* UIERealTimeBlurView.h */,
+				EA71158C1BADF45600B79589 /* UIERealTimeBlurView.m */,
+				EA71158D1BADF45600B79589 /* UIImage+BoxBlur.h */,
+				EA71158E1BADF45600B79589 /* UIImage+BoxBlur.m */,
+				EA7115921BADF45D00B79589 /* AppDelegate.h */,
+				EA7115931BADF45D00B79589 /* AppDelegate.m */,
+				EA7115941BADF45D00B79589 /* hangers.jpeg */,
+				EA7115951BADF45D00B79589 /* Maps.xib */,
+				EA7115961BADF45D00B79589 /* Main.storyboard */,
+				EA7115971BADF45D00B79589 /* Web.xib */,
+				EA7115981BADF45D00B79589 /* Locat.xib */,
+				EA7115B61BADF4E000B79589 /* ParentViewController.h */,
+				EA7115B71BADF4E000B79589 /* ParentViewController.m */,
+				EA71159F1BADF46800B79589 /* LocateMeMap-Prefix.pch */,
+				EA7115A01BADF46800B79589 /* LocateMeMapViewController.h */,
+				EA7115A11BADF46800B79589 /* LocateMeMapViewController.m */,
+				EA7115A21BADF46800B79589 /* LocateMeMapAppDelegate.h */,
+				EA7115A31BADF46800B79589 /* LocateMeMapAppDelegate.m */,
+				EA7115A61BADF46F00B79589 /* Web.h */,
+				EA7115A71BADF46F00B79589 /* Web.m */,
+				EA7115A81BADF46F00B79589 /* Annotation.h */,
+				EA7115A91BADF46F00B79589 /* Annotation.m */,
+				EA7115AA1BADF46F00B79589 /* Contact.h */,
+				EA7115AB1BADF46F00B79589 /* Contact.m */,
+				EA7115AC1BADF46F00B79589 /* Maps.h */,
+				EA7115AD1BADF46F00B79589 /* Maps.m */,
+				EA7115B51BADF49100B79589 /* New  */,
+				EA7115AE1BADF46F00B79589 /* Locat.h */,
+				EA7115AF1BADF46F00B79589 /* Locat.m */,
+				EA7115451BADF42000B79589 /* Frameworks */,
 				EA7115621BADF42100B79589 /* Finder2Tests */,
 				EA71156D1BADF42100B79589 /* Finder2UITests */,
 				EA7115441BADF42000B79589 /* Products */,
@@ -100,20 +231,30 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EA7115451BADF42000B79589 /* Finder2 */ = {
+		EA7115451BADF42000B79589 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				EA7115491BADF42000B79589 /* AppDelegate.h */,
-				EA71154A1BADF42000B79589 /* AppDelegate.m */,
-				EA71154C1BADF42000B79589 /* ViewController.h */,
-				EA71154D1BADF42000B79589 /* ViewController.m */,
-				EA71154F1BADF42000B79589 /* Main.storyboard */,
+				EA7115D11BADF5AA00B79589 /* Parse.framework */,
+				EA7115CF1BADF5A400B79589 /* ParseCrashReporting.framework */,
+				EA7115CD1BADF59E00B79589 /* ParseUI.framework */,
+				EA7115CB1BADF59900B79589 /* ParseFacebookUtils.framework */,
+				EA7115B91BADF51D00B79589 /* FacebookSDKStrings.bundle */,
+				EA7115BA1BADF51D00B79589 /* Bolts.framework */,
+				EA7115BB1BADF51D00B79589 /* FacebookSDK.framework */,
+				EA7115BC1BADF51D00B79589 /* FBAudienceNetwork.framework */,
+				EA7115BD1BADF51D00B79589 /* FBSDKCoreKit.framework */,
+				EA7115BE1BADF51D00B79589 /* FBSDKMessengerShareKit.framework */,
+				EA7115BF1BADF51D00B79589 /* FBSDKShareKit.framework */,
+				EA7115C01BADF51D00B79589 /* Parse.framework */,
+				EA7115C11BADF51D00B79589 /* Pushbots.framework */,
 				EA7115551BADF42000B79589 /* Assets.xcassets */,
 				EA7115571BADF42000B79589 /* LaunchScreen.storyboard */,
 				EA71155A1BADF42000B79589 /* Info.plist */,
+				EA7115D31BADF5E000B79589 /* PFFacebookUtils.h */,
 				EA7115521BADF42000B79589 /* Finder2.xcdatamodeld */,
 				EA7115461BADF42000B79589 /* Supporting Files */,
 			);
+			name = Frameworks;
 			path = Finder2;
 			sourceTree = "<group>";
 		};
@@ -141,6 +282,13 @@
 				EA7115701BADF42100B79589 /* Info.plist */,
 			);
 			path = Finder2UITests;
+			sourceTree = "<group>";
+		};
+		EA7115B51BADF49100B79589 /* New  */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "New ";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,9 +394,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA71159A1BADF45D00B79589 /* hangers.jpeg in Resources */,
+				EA71159D1BADF45D00B79589 /* Web.xib in Resources */,
+				EA71159B1BADF45D00B79589 /* Maps.xib in Resources */,
+				EA7115851BADF44600B79589 /* gpx.gpx in Resources */,
+				EA71159C1BADF45D00B79589 /* Main.storyboard in Resources */,
+				EA71159E1BADF45D00B79589 /* Locat.xib in Resources */,
+				EA7115C21BADF51D00B79589 /* FacebookSDKStrings.bundle in Resources */,
 				EA7115591BADF42000B79589 /* LaunchScreen.storyboard in Resources */,
 				EA7115561BADF42000B79589 /* Assets.xcassets in Resources */,
-				EA7115511BADF42000B79589 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,10 +427,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EA71154E1BADF42000B79589 /* ViewController.m in Sources */,
-				EA71154B1BADF42000B79589 /* AppDelegate.m in Sources */,
+				EA71158F1BADF45600B79589 /* JMBackgroundCameraView.m in Sources */,
+				EA7115901BADF45600B79589 /* UIERealTimeBlurView.m in Sources */,
+				EA7115991BADF45D00B79589 /* AppDelegate.m in Sources */,
+				EA7115841BADF44600B79589 /* SiteDetailViewController.m in Sources */,
+				EA7115B21BADF46F00B79589 /* Contact.m in Sources */,
+				EA7115B41BADF46F00B79589 /* Locat.m in Sources */,
+				EA7115B11BADF46F00B79589 /* Annotation.m in Sources */,
+				EA7115831BADF44600B79589 /* MapViewController.m in Sources */,
 				EA7115541BADF42000B79589 /* Finder2.xcdatamodeld in Sources */,
+				EA7115B01BADF46F00B79589 /* Web.m in Sources */,
+				EA7115B81BADF4E000B79589 /* ParentViewController.m in Sources */,
 				EA7115481BADF42000B79589 /* main.m in Sources */,
+				EA7115B31BADF46F00B79589 /* Maps.m in Sources */,
+				EA7115911BADF45600B79589 /* UIImage+BoxBlur.m in Sources */,
+				EA7115881BADF45000B79589 /* ViewController.m in Sources */,
+				EA7115A41BADF46800B79589 /* LocateMeMapViewController.m in Sources */,
+				EA7115A51BADF46800B79589 /* LocateMeMapAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,14 +479,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		EA71154F1BADF42000B79589 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				EA7115501BADF42000B79589 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		EA7115571BADF42000B79589 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -415,6 +574,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Finder2",
+				);
 				INFOPLIST_FILE = Finder2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = HTN.Finder2;
@@ -426,6 +589,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Finder2",
+				);
 				INFOPLIST_FILE = Finder2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = HTN.Finder2;
